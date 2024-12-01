@@ -1,0 +1,1 @@
+// Điều chỉnh các thông số trong file info.js
